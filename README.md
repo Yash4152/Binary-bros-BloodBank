@@ -50,7 +50,7 @@ N.B: It supports only in android version 4.0 or later.
 ![](https://img.shields.io/github/issues/imshakil/BloodBank.svg)
 
 # Database Snapshot
-Follow this link: https://github.com/Yash4152/Binary-bros-BloodBank.wiki.git
+Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots
 (This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
 
 # Changing Database and Package Name
@@ -78,3 +78,10 @@ Yash soni
 Yash Rajoria 
 Vivan Jain   
 Tarush Kaushik
+
+
+
+
+
+
+
